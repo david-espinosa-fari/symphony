@@ -1,4 +1,4 @@
-# User Stories
+# User Stories    Este no es el original
 ##Proyecto web Symfony - Práctica individual
 ###Se quiere
   1. Frontend web: Los usuarios deben poder consultar el resumen de logs desde
